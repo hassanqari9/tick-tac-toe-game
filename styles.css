@@ -1,0 +1,26 @@
+body{
+    background-color: #F9F9F9;
+}
+
+button{
+    width: 277px;
+    height: 280px;;
+    background-image: url("images/box.png");
+    border: none;
+}
+
+table{
+    margin-top: 0px;
+}
+
+h1{
+    font-size: 70px;;
+    font-family: fantasy;
+}
+
+h2{
+    margin: 0;
+    color: #7DCE13;
+    font-family: sans-serif;
+
+}
