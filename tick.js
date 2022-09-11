@@ -17,8 +17,8 @@ document.querySelectorAll("button")[i].addEventListener("click",function(){
         else if (j%2==0)
         {
             document.querySelector("."+classes+"").innerHTML="o";
-            var crash = new Audio("sounds/crash.mp3");
-            crash.play();
+            var snare = new Audio("sounds/snare.mp3");
+            snare.play();
             document.querySelector("h2").innerHTML="Player 1 turn:";
             document.querySelector("h2").style.color="#7DCE13";
             break;
